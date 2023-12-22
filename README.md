@@ -28,4 +28,15 @@ Ask your startup question:
 ```bash
 localmentor ask --prompt "What are three things to look for when hiring employees at an early stage startup?"
 ```
+
+## Features
+
+### Python Usage
+Simply import the library and pass your command as a string to `mentor`
+
+```python
+from localmentor import mentor
+
+mentor("What are three things to look for when hiring employees at an early stage startup?")
+```
 </p>
