@@ -40,3 +40,7 @@ from localmentor import mentor
 mentor("What are three things to look for when hiring employees at an early stage startup?")
 ```
 </p>
+
+## Eval
+
+Try the [evaluation notebook](notebooks/) to compare performance with other models.
